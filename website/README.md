@@ -1,0 +1,5 @@
+# The Sandbox Website
+
+In this directory, we will keep the files used to construct the
+"sandbox" web pages on the www.sagecontinuum.org website.
+
