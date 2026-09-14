@@ -1,4 +1,4 @@
-# Sage UIC Sandbox
+# Development Plan: Sage UIC Sandbox
 
 **Concept:** Users of the Sage Grande Testbed need a place to start -- a small set of SGT nodes in a controlled laboratory environment.  The Sandbox will give students a place to try new ideas, test new software stacks, and explore sensors without disrupting nodes deployed in the field, such as at NEON or HPWREN.
 
