@@ -28,7 +28,7 @@ While the portal page is helpful, it does not provide an end-to-end guide for re
 - Where do Sandbox users ask questions?  Slack channel?
 - In this first version, how do they find the list of nodes to use?
 - How should they select a node?  (randomly?)
-- The Sandbox landing page should be in a Sage [github repo](https://github.com/sagecontinuum).  
+- The Sandbox landing page should be in a Sage [github repo](https://github.com/sagecontinuum).
 
 ### 3) Cameras and Sensors
 
@@ -38,6 +38,10 @@ Nodes within the sandbox can ***share*** cameras and sensors.  This is a very un
 - Cameras should be configured in unique ways, without the possibility to see humans (students), but rather interesting objects, an LCD screen, a fishtank, etc.
 - When possible, the *admin* password for a camera should be secret, and the *user* access password will be shared with Sandbox users
 - The Sandbox Landing Page (web page), should enumerate all the sensors and instructions for using them
+
+#### Additional Notes
+- Common accessible directory with large number of pre-fetched camera/mic resources.
+
 
 ### 4) Network-attached, Shared Home Directory
 
